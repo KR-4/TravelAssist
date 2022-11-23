@@ -1,0 +1,1 @@
+Get temperature value from BMP180 sensor and print it to LCD
