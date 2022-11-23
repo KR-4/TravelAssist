@@ -1,0 +1,1 @@
+Get input from keypad to get the current time (entered by user) and prints it to the LCD
