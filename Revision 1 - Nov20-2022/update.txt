@@ -1,0 +1,1 @@
+- Developed code required to print text and numbers to the LCD
